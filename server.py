@@ -14,7 +14,7 @@ def home():
 def about():
     me={"me":"Juan Montiel Herrera"}
     return json.dumps(me)
-py
+
 @app.get("/footer")
 def footer():
     pageName={"pageName":"Organika"}
