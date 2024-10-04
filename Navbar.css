@@ -1,0 +1,24 @@
+.navbar h4 {
+    background-color: darkcyan;
+}
+
+
+.navbar .container-fluid {
+    background-color: rgba(5, 171, 116, 0.998);
+}
+
+.navbar button {
+    color: rgba(0, 0, 0, 0.897);
+    background-color: rgb(234, 234, 178);
+    width: 150px;
+}
+
+.navbar .container-fluid .navbar-brand {
+    font-size: 40px;
+}
+
+.navbar .container-fluid .d-flex .btn {
+    margin-left: 10px;
+    background-color: #2d3833;
+    color: #96ceb4;
+}

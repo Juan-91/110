@@ -1,0 +1,9 @@
+.catalog {
+    min-height: 600px;
+    background-color: rgb(250, 250, 250);
+}
+
+.catalog .filters button {
+    background-color: rgba(5, 171, 116, 0.998);
+    margin: 10px;
+}
